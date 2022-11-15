@@ -5,7 +5,7 @@ The scope of this repository is to play around with CSS and HTML as a way to lea
 # List of illustrations
 
 Each illustration contains a README file detailing tips to take into account during implementation.
-1. [Blue Moon animation](./blue-mooon/README.md)
+1. [Blue Moon animation](./projects/animations/blue-mooon/README.md)
 
 # Resources
 
@@ -40,22 +40,7 @@ Each illustration contains a README file detailing tips to take into account dur
 - [Clip path](https://css-tricks.com/almanac/properties/c/clip-path/)
 - [Clip path editor](https://codepen.io/stoumann/full/abZxoOM)
 
-# Tips and tricks
-
-## Reset the body
-
-It's handy to reset the body to display illustrations.
-```
-body {
-    margin: 0;
-    padding: 0;
-    background-color: rgba(0, 0, 0, 0.864);
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-```
+# Tips, tricks and snippets
 
 ## Border
 
@@ -80,18 +65,5 @@ Often, you will need to center a child inside its parent. A fast way to do so is
     display: flex;
     justify-content: center;
     align-items: center;
-}
-```
-
-## Position
-
-
-## Pseudo-elements
-In order to be rendered, pseudo-elements like `::after` and `::before` need a `content` attribute, as well as a `height` and a `width`. For example:
-```
-{
-    content: '';
-    width: ...;
-    height: ...;
 }
 ```
