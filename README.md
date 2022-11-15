@@ -5,7 +5,7 @@ The scope of this repository is to play around with CSS and HTML as a way to lea
 # List of illustrations
 
 Each illustration contains a README file detailing tips to take into account during implementation.
-1. [Blue Moon animation](./projects/animations/blue-mooon/README.md)
+1. [Blue Moon animation](./projects/animations/blue-moon/README.md)
 
 # Resources
 
