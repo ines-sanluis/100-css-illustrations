@@ -46,6 +46,7 @@ Each illustration contains a README file detailing tips to take into account dur
 ## Border
 
 It's possible to create shapes by using the `border` attribute and setting `width` and `height` to `0`. This allows for room to play with the four sides of a rectangle.
+
 ```
 {
     width: 0;

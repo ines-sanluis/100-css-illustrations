@@ -122,10 +122,12 @@ Positioning
 }
 ```
 Animation syntax
+
 ```
     animation: animation-name speed iteration-count direction;
 ```
 Keyframes syntax
+
 ```
     @keyframes animationname {keyframes-selector {css-styles;}}
 ```

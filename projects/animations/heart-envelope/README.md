@@ -49,12 +49,14 @@ I realized that it is much easier to implement an illustration if I'm able to br
 Using the `animation` property and the `keyframes` at-rule to make the rocket move around the moon allowed me to consolidate my knowledge on the right syntaxis.
 
 ## Code snippets
-```
 Animation syntax
+
 ```
     animation: animation-name speed iteration-count direction;
 ```
+
 Keyframes syntax
+
 ```
     @keyframes animationname {keyframes-selector {css-styles;}}
 ```
