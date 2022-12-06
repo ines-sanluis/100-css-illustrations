@@ -1,0 +1,109 @@
+:root {
+    --white: #FFFFFF;
+    --red: #FD004C;
+    --orange: #FE9000;
+    --yellow: #FFF020;
+    --green: #3EDF4B;
+    --blue: #3363FF;
+    --background: #8ed6ff;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body {
+    background-color: var(--background);
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 34em;
+    height: 34em;
+}
+.container:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    border-radius: 0 0 0.6em 0.6em;
+    width: 100%;
+    height: 50.5%;
+    background-color: var(--background);
+}
+.rainbow-color {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: 50% 0;
+    animation: spin 5s infinite;
+    border-width: 1.25em;
+    border-style: solid;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+@keyframes spin {
+    30% {
+        transform: translate(-50%, -50%) rotate(180deg);
+    }
+    55% {
+        transform: translate(-50%, -50%) rotate(180deg);
+    }
+    85% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+.rainbow-color-1 {
+    top: calc(50% + 5.62em);
+    animation-delay: 0.8s;
+    border-color: var(--red);
+    border-bottom-left-radius: 11.25em;
+    border-bottom-right-radius: 11.25em;
+    width: 22.5em;
+    height: 11.25em;
+}
+.rainbow-color-2 {
+    top: calc(50% + 5em);
+    border-color: var(--orange);
+    border-bottom-left-radius: 10em;
+    border-bottom-right-radius: 10em;
+    animation-delay: 0.6s;
+    width: 20em;
+    height: 10em;
+}
+.rainbow-color-3 {
+    top: calc(50% + 4.37em);
+    border-color: var(--yellow);
+    border-bottom-left-radius: 8.75em;
+    border-bottom-right-radius: 8.75em;
+    animation-delay: 0.4s;
+    width: 17.5em;
+    height: 8.75em;
+}
+.rainbow-color-4 {
+    top: calc(50% + 3.75em);
+    border-color: var(--green);
+    border-bottom-left-radius: 7.5em;
+    border-bottom-right-radius: 7.5em;
+    animation-delay: 0.2s;
+    width: 15em;
+    height: 7.5em;
+}
+.rainbow-color-5 {
+    top: calc(50% + 3.12em);
+    border-color: var(--blue);
+    border-bottom-left-radius: 6.25em;
+    border-bottom-right-radius: 6.25em;
+    width: 12.5em;
+    height: 6.25em;
+}
+@media screen and (max-width: 550px) {
+    body {
+        font-size: 12px;
+    }
+}

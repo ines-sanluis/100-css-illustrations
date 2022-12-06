@@ -7,6 +7,7 @@ The scope of this repository is to play around with CSS and HTML as a way to lea
 Each illustration contains a README file detailing tips to take into account during implementation.
 1. [Blue Moon animation](./projects/animations/blue-moon/README.md)
 2. [Heart Envelope animation](./projects/animations/heart-envelope/README.md)
+2. [Rainbow animation](./projects/animations/rainbow/README.md)
 
 # Resources
 
