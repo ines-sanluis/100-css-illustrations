@@ -31,7 +31,7 @@ This illustration was coded following a [YouTube tutorial](https://www.youtube.c
 ## Breaking it down
 Creating an illustration with CSS becomes much easier once you're able to break down the design into smaller elements that are easier to implement. For example, for this illustration I identified two main elements:
 - The **moon**. It has 5 craters with shadows, two eyes, a mouth, some blush and a bit of shadow.
-- The **orbit**. Contains a rocket with a window on it, wings and a bottom part. The rocket flys around the mood.
+- The **orbit**. Contains a rocket with a window on it, wings and a bottom part. The rocket flies around the moon.
 
 Once you establish what are the different elements you need to draw, it is time to think about what shapes they might correspond with. Some figures might be harder to break down and it might help to imagine them in their most basic shapes, in other words, without taking account the radius of the element's corners.
 
