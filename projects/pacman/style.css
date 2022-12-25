@@ -1,0 +1,126 @@
+:root {
+    --pacman: #fdff00;
+    --background: rgba(0, 0, 0, 0.864);
+    --food: #EDEDED;
+    --blue: #46bfee;
+    --pink: #EA82E5;
+    --orange: #DB851C;
+    --red: #D03E19;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background);
+}
+
+
+/* WRAPPER */
+.original {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* PACMAN */
+.pacman {
+    width: 0px;
+    height: 0px;
+    border: 70px solid var(--pacman);
+    border-right: 70px solid transparent;
+    border-radius: 70px;
+    margin-right: 40px;
+}
+
+/* FOOD */
+.food, .food::before, .food:after {
+    width: 10px;
+    height: 10px;
+    background: var(--food);
+    border-radius: 50%;
+}
+.food::before, .food:after {
+    content: '';
+    position: absolute;
+}
+.food::before {
+    transform: translateX(-50px);
+}
+.food:after {
+    transform: translateX(50px);
+}
+
+/* GHOST */
+.ghost {
+    margin-top: -10px;
+    width: 120px;
+    height: 120px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    position: relative;
+    margin-right: 40px;
+}
+.first {
+    margin-left: 90px;
+}
+
+/* FEET */
+.feet {
+    display: flex;
+    position: absolute;
+    top: 105px;
+}
+.feet > * {
+    content: '';
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+/* EYES */
+.eyes {
+    display: flex;
+    justify-content: space-between;
+    width: 80px;
+    margin-top: 35px;
+    margin-left: 5px;
+}
+.eye {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 15px;
+}
+.eye::before {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translateX(-50%);
+    width: 13px;
+    height: 13px;
+    background: var(--background);
+    border-radius: 50%;
+}
+
+/* COLORS */
+div[class*='blue'], div[class*='blue'] > .feet > * {
+    background: var(--blue);
+}
+div[class*='pink'], div[class*='pink'] > .feet > *  {
+    background: var(--pink);
+}
+div[class*='orange'], div[class*='orange'] > .feet > *  {
+    background: var(--orange);
+}
+div[class*='red'], div[class*='red'] > .feet > *  {
+    background: var(--red);
+}
+
+
