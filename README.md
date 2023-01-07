@@ -4,6 +4,7 @@ The scope of this repository is to play around with CSS and HTML as a way to lea
 
 - [100 CSS illustrations](#100-css-illustrations)
 - [List of illustrations](#list-of-illustrations)
+  - [Some previews](#some-previews)
 - [Resources](#resources)
   - [Tutorials](#tutorials)
   - [Editors](#editors)
