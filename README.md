@@ -11,6 +11,8 @@ Each illustration contains a README file detailing tips to take into account dur
 4. [Pacman](./projects/pacman/README.md)
 5. [Pepsi logo](./projects/logos/pepsi/README.md)
 
+## Some previews
+
 ![Blue Moon](./images/blue-moon.png)
 ![Heart Envelope](./images/heart-envelope.png)
 ![Rainbow](./images/rainbow.png)
