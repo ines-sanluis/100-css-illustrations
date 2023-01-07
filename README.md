@@ -15,7 +15,7 @@ Each illustration contains a README file detailing tips to take into account dur
 ![Heart Envelope](./images/heart-envelope.png)
 ![Rainbow](./images/rainbow.png)
 ![Pacman](./images/pacman.png)
-![Pepsi](./images/logos/pepsi.png)
+![Pepsi](./images/pepsi.png)
 
 
 # Resources
