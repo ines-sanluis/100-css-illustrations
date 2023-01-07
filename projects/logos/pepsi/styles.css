@@ -1,0 +1,46 @@
+:root {
+    --background: rgba(0, 0, 0, 0.864);
+    --red: #DA473C;
+    --blue: #34588E;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--background);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pepsi {
+    height: 300px;
+    width: 300px;
+    background-color: var(--blue);
+    border-radius: 50%;
+    border: 10px solid white;
+    position: relative;
+    overflow: hidden;
+}
+.pepsi::before {
+    content: '';
+    position: absolute;
+    top: -160px;
+    left: -240px;
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    border-radius: 25%;
+    transform: rotate(-18deg);
+}
+.pepsi::after {
+    content: '';
+    position: absolute;
+    background-color: var(--red);
+    height: 500px;
+    width: 550px;
+    border-radius: 50%;
+    top: -275px;
+    left: -300px;
+}

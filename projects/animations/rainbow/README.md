@@ -21,7 +21,7 @@
 This illustration was coded slightly modifying a [YouTube tutorial](https://www.youtube.com/watch?v=YG9FyEDGDVM) made by [Mitali Jadhavrao](https://codingartistweb.com/about/).
 
 ## Key concepts
-- It's possible to use an element to hide part of another/s. This illustration uses this concept to convert full circles into half circles.asd
+- It's possible to use an element to hide part of another/s. This illustration uses this concept to convert full circles into half circles.
 - `transform: translate(-50%, -50%)` is required if you want the center of an element to line up with the center of its parent whenever `top: 50%; left: 50%` is used to move the top left corner of the element to the center of its parent.
 - `calc() ` function lets you perform calculations when specifying CSS property values.
 -  The `em` and `rem` units are practical in creating perfectly scalable layout.
