@@ -7,7 +7,7 @@
   - [Breaking it down](#breaking-it-down)
 
 # Preview
-![Camera](../images/camera.png)
+![Camera](../../images/camera.png)
 
 ## Key concepts
 - It's possible to use pseudo-elements to hide part of their ascendant or other elements.
