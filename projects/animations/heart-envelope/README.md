@@ -12,7 +12,7 @@
   - [Resource links](#resource-links)
 
 ## Preview
-![Heart envelope](../../../images/heart-envelope.png)
+![Heart envelope](./preview.png)
 
 ## Credits
 
@@ -30,7 +30,7 @@ Creating an illustration with CSS becomes much easier once you're able to break 
 
 Once you establish what are the different elements you need to draw, it is time to think about what shapes they might correspond with. Some figures might be harder to break down and it might help to imagine them in their most basic shapes, in other words, without taking account the radius of the element's corners.
 
-![Heart envelope shapes](../../../images/heart-envelope-shapes.png)
+![Heart envelope shapes](./shapes.pngg)
 
 In this case, here's the mental model I used to implement this illustration:
 | Element | Basic shape | Final shape

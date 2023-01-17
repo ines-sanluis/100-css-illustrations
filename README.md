@@ -25,17 +25,17 @@ Each illustration contains a README file detailing tips to take into account dur
 1. [Blue Moon animation](./projects/animations/blue-moon/README.md)
 2. [Heart Envelope animation](./projects/animations/heart-envelope/README.md)
 3. [Rainbow animation](./projects/animations/rainbow/README.md)
-4. [Pacman](./projects/pacman/README.md)
+4. [Pacman](./projects/plain/pacman/README.md)
 5. [Pepsi logo](./projects/logos/pepsi/README.md)
-6. [Camera](./projects/camera/README.md)
+6. [Camera](./projects/plain/camera/README.md)
 
 ## Some previews
 
-![Blue Moon](./images/blue-moon.png)
-![Heart Envelope](./images/heart-envelope.png)
-![Rainbow](./images/rainbow.png)
-![Pacman](./images/pacman.png)
-![Pepsi](./images/pepsi.png)
+![Blue Moon](./projects/animations/blue-moon/preview.png)
+![Heart Envelope](./projects/animations/heart-envelope/preview.png)
+![Rainbow](./projects/animations/preview.png)
+![Pepsi](./projects/logos/pepsi/preview.png)
+![Pacman](./projects/plain/pacman/preview.png)
 
 
 # Resources

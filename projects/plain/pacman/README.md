@@ -8,7 +8,7 @@
   - [Breaking it down](#breaking-it-down)
 
 ## Preview
-![Pacman](../../images/pacman.png)
+![Pacman](./preview.png)
 
 ## Credits
 

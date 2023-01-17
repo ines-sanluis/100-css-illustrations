@@ -14,7 +14,7 @@
   - [Resource links](#resource-links)
 
 ## Preview
-![Rainbow](../../../images/rainbow.png)
+![Rainbow](./preview.png)
 
 ## Credits
 

@@ -9,7 +9,7 @@
   - [Breaking it down](#breaking-it-down)
 
 ## Preview
-![Pepsi](../../../images/pepsi.png)
+![Pepsi](./preview.png)
 
 ## Key concepts
 - It's possible to use pseudo-elements to hide part of their ascendant or other elements.
