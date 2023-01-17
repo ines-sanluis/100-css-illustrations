@@ -2,11 +2,10 @@
 
 # Pepsi
 
-- [Pepsi](#pepsi)
-  - [Preview](#preview)
-  - [Key concepts](#key-concepts)
-  - [Credits](#credits)
-  - [Breaking it down](#breaking-it-down)
+- [Preview](#preview)
+- [Key concepts](#key-concepts)
+- [Credits](#credits)
+- [Breaking it down](#breaking-it-down)
 
 ## Preview
 ![Pepsi](./preview.png)
