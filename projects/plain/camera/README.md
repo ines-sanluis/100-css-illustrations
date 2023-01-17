@@ -1,13 +1,12 @@
 # Camera
 
-- [Camera](#camera)
-  - [Preview](#preview)
-  - [Key concepts](#key-concepts)
-  - [Credits](#credits)
-  - [Breaking it down](#breaking-it-down)
+- [Preview](#preview)
+- [Key concepts](#key-concepts)
+- [Credits](#credits)
+- [Breaking it down](#breaking-it-down)
 
 ## Preview
-![Camera](/preview.png)
+![Camera](./preview.png)
 
 ## Key concepts
 - It's possible to use pseudo-elements to hide part of their ascendant or other elements.
