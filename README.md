@@ -27,6 +27,7 @@ Each illustration contains a README file detailing tips to take into account dur
 3. [Rainbow animation](./projects/animations/rainbow/README.md)
 4. [Pacman](./projects/pacman/README.md)
 5. [Pepsi logo](./projects/logos/pepsi/README.md)
+6. [Camera](./projects/pepsi/README.md)
 
 ## Some previews
 
