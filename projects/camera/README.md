@@ -1,12 +1,11 @@
 # Camera
 
-- [Camera](#camera)
 - [Preview](#preview)
   - [Key concepts](#key-concepts)
   - [Credits](#credits)
   - [Breaking it down](#breaking-it-down)
 
-# Preview
+## Preview
 ![Camera](../../images/camera.png)
 
 ## Key concepts
