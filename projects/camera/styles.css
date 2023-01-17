@@ -1,0 +1,72 @@
+:root {
+    --white: #F5F5F5;
+    --gray: #C0C0C0;
+    --green: #00695C;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.camera {
+    width: 205px;
+    height: 155px;
+    background-color: #D6D6D6;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px -13px black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lens {
+    position: absolute;
+    height: 125px;
+    width: 125px;
+    background-color: var(--white);
+    box-shadow: 0 8px 0 0 var(--gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.inner-lens {
+    height: 105px;
+    width: 105px;
+    background-color: var(--green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.inner-lens-2 {
+    border-top: 32px solid #00897B;
+    border-right: 32px solid #4DB6AC;
+    border-bottom: 32px solid #80CBC4;
+    border-left: 32px solid #26A69A;
+    border-radius: 50%;
+}
+.flash {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: var(--white);
+    border-radius: 50%;
+    box-shadow: 0 4px 0 0 var(--gray);
+}
+.button {
+    position: absolute;
+    top: -5px;
+    left: 16px;
+    width: 30px;
+    height: 5px;
+    background-color: var(--green);
+    border-radius: 60px;
+}
