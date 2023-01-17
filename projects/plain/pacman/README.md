@@ -2,10 +2,9 @@
 
 # Pacman
 
-- [Pacman](#pacman)
-  - [Preview](#preview)
-  - [Credits](#credits)
-  - [Breaking it down](#breaking-it-down)
+- [Preview](#preview)
+- [Credits](#credits)
+- [Breaking it down](#breaking-it-down)
 
 ## Preview
 ![Pacman](./preview.png)
