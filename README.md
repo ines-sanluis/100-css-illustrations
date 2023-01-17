@@ -33,7 +33,7 @@ Each illustration contains a README file detailing tips to take into account dur
 
 ![Blue Moon](./projects/animations/blue-moon/preview.png)
 ![Heart Envelope](./projects/animations/heart-envelope/preview.png)
-![Rainbow](./projects/animations/preview.png)
+![Rainbow](./projects/animations/rainbow/preview.png)
 ![Pepsi](./projects/logos/pepsi/preview.png)
 ![Pacman](./projects/plain/pacman/preview.png)
 
