@@ -1,15 +1,14 @@
 # Heart envelope
 
-- [Heart envelope](#heart-envelope)
-  - [Preview](#preview)
-  - [Credits](#credits)
-  - [Key concepts](#key-concepts)
-  - [Breaking it down](#breaking-it-down)
-  - [What I learnt](#what-i-learnt)
-    - [Shapes](#shapes)
-    - [Animation](#animation)
-  - [Code snippets](#code-snippets)
-  - [Resource links](#resource-links)
+- [Preview](#preview)
+- [Credits](#credits)
+- [Key concepts](#key-concepts)
+- [Breaking it down](#breaking-it-down)
+- [What I learnt](#what-i-learnt)
+  - [Shapes](#shapes)
+  - [Animation](#animation)
+- [Code snippets](#code-snippets)
+- [Resource links](#resource-links)
 
 ## Preview
 ![Heart envelope](./preview.png)
