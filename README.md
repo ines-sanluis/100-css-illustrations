@@ -28,6 +28,7 @@ Each illustration contains a README file detailing tips to take into account dur
 4. [Pacman](./projects/plain/pacman/README.md)
 5. [Pepsi logo](./projects/logos/pepsi/README.md)
 6. [Camera](./projects/plain/camera/README.md)
+7. [React](./projects/logos/react/README.md)
 
 ## Some previews
 
