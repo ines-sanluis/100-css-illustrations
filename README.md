@@ -28,15 +28,13 @@ Each illustration contains a README file detailing tips to take into account dur
 4. [Pacman](./projects/plain/pacman/README.md)
 5. [Pepsi logo](./projects/logos/pepsi/README.md)
 6. [Camera](./projects/plain/camera/README.md)
-7. [React](./projects/logos/react/README.md)
-8. [Adidas](./projects/logos/adidas/README.md)
+7. [React logo](./projects/logos/react/README.md)
+8. [Adidas logo](./projects/logos/adidas/README.md)
 
 ## Some previews
 
 ![Blue Moon](./projects/animations/blue-moon/preview.png)
-![Heart Envelope](./projects/animations/heart-envelope/preview.png)
-![Rainbow](./projects/animations/rainbow/preview.png)
-![Pepsi](./projects/logos/pepsi/preview.png)
+![React](./projects/logos/react/preview.png)
 ![Pacman](./projects/plain/pacman/preview.png)
 
 
@@ -60,7 +58,7 @@ Each illustration contains a README file detailing tips to take into account dur
 - [Coolers](https://coolers.co)
 
 ## Border radius
-- [Fancy borde radius](https://fancy-border-radius.com)
+- [Fancy border radius](https://fancy-border-radius.com)
 
 
 ## SVG
