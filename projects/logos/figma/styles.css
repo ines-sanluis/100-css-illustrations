@@ -1,0 +1,52 @@
+:root {
+    --background: #333;
+    --red: #EE4E2A;
+    --salmon: #FB7266;
+    --purple: #A061FA;
+    --blue: #2EBDFA;
+    --green: #00CE84;
+}
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: var(--background);
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    flex-wrap: wrap;
+    width: 180px;
+    height: 270px;
+}
+
+.part {
+    width: 90px;
+    height: 90px;
+}
+.part-1 {
+    background-color: var(--red);
+}
+.part-1, .part-3, .part-5{
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+.part-2 {
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: var(--salmon);
+}
+.part-3 {
+    background-color: var(--purple);
+}
+.part-4 {
+    border-radius: 50%;
+    background-color: var(--blue);
+}
+.part-5 {
+    border-bottom-right-radius: 50%;
+    background-color: var(--green);
+}

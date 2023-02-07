@@ -30,6 +30,7 @@ Each illustration contains a README file detailing tips to take into account dur
 6. [Camera](./projects/plain/camera/README.md)
 7. [React logo](./projects/logos/react/README.md)
 8. [Adidas logo](./projects/logos/adidas/README.md)
+9. [Figma logo](./projects/logos/figma/README.md)
 
 ## Some previews
 
