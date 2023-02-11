@@ -1,13 +1,11 @@
 
 
 # Figma
-
-- [Figma](#figma)
-  - [Preview](#preview)
-  - [Key concepts](#key-concepts)
-  - [Credits](#credits)
-  - [Breaking it down](#breaking-it-down)
-  - [What I learnt](#what-i-learnt)
+- [Preview](#preview)
+- [Key concepts](#key-concepts)
+- [Credits](#credits)
+- [Breaking it down](#breaking-it-down)
+- [What I learnt](#what-i-learnt)
 
 ## Preview
 ![Figma](./preview.png)
