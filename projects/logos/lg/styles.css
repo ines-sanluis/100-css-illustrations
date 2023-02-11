@@ -1,0 +1,75 @@
+:root {
+    --background: #262626;
+    --red: #E31837;
+    --salmon: #FB7266;
+    --purple: #A061FA;
+    --blue: #2EBDFA;
+    --green: #00CE84;
+}
+body{
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    background-color: var(--background);
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    position: relative;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    background-color: var(--red);
+}
+
+/* Letter L */
+.line-3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 250px;
+    background-color: white;
+}
+.line-4 {
+    position: absolute;
+    top: 370px;
+    left: 240px;
+    width: 70px;
+    height: 20px;
+    background-color: white;
+}
+
+/* Letter G */
+.line-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    border: 20px solid white;
+    border-right-color: transparent;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+.line-2 {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    transform: translateY(-50%);
+    width: 150px;
+    height: 20px;
+    background-color: white;
+}
+
+.circle {
+    position: absolute;
+    top: 120px;
+    left: 130px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}

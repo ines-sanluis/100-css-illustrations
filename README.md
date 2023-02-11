@@ -31,6 +31,7 @@ Each illustration contains a README file detailing tips to take into account dur
 7. [React logo](./projects/logos/react/README.md)
 8. [Adidas logo](./projects/logos/adidas/README.md)
 9. [Figma logo](./projects/logos/figma/README.md)
+10. [LG logo](./projects/logos/lg/README.md)
 
 ## Some previews
 
