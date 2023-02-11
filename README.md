@@ -2,22 +2,10 @@
 
 The scope of this repository is to play around with CSS and HTML as a way to learn by building illustrations.
 
-- [100 CSS illustrations](#100-css-illustrations)
 - [List of illustrations](#list-of-illustrations)
   - [Some previews](#some-previews)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Editors](#editors)
-  - [CSS Shapes](#css-shapes)
-  - [Gradients](#gradients)
-  - [Color palettes](#color-palettes)
-  - [Border radius](#border-radius)
-  - [SVG](#svg)
-  - [Clip path](#clip-path)
 - [Tips, tricks and snippets](#tips-tricks-and-snippets)
-  - [Border](#border)
-  - [Centering](#centering)
-
 
 # List of illustrations
 
