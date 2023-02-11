@@ -1,11 +1,10 @@
 # LG
 
-- [LG](#lg)
-  - [Preview](#preview)
-  - [Key concepts](#key-concepts)
-  - [Credits](#credits)
-  - [Breaking it down](#breaking-it-down)
-  - [What I learnt](#what-i-learnt)
+- [Preview](#preview)
+- [Key concepts](#key-concepts)
+- [Credits](#credits)
+- [Breaking it down](#breaking-it-down)
+- [What I learnt](#what-i-learnt)
 
 ## Preview
 ![LG](./preview.png)
