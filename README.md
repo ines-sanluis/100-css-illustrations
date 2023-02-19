@@ -32,6 +32,7 @@ Each illustration contains a README file detailing tips to take into account dur
 9. [Figma logo](./projects/logos/figma/README.md)
 10. [LG logo](./projects/logos/lg/README.md)
 11. [Watermelon](./projects/plain/watermelon/README.md)
+12. [Google logo](./projects/logos/google/README.md)
 
 ## Some previews
 
