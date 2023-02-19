@@ -1,0 +1,41 @@
+:root {
+    --background: #69506D;
+    --watermelon: #FD6C64;
+    --green: #5AF5B6;
+    --seed: #262626;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background);
+}
+
+.watermelon {
+    border-right: 20px solid var(--green);
+    border-bottom: 20px solid var(--green);
+    border-left: 20px solid var(--green);
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    width: 320px;
+    height: 160px;
+    background-color: var(--watermelon);
+}
+span {
+    display: inline-block;
+    margin: 20px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: var(--seed);
+}
+span:nth-child(6),
+span:nth-child(11),
+span:nth-child(12),
+span:nth-child(15){
+    opacity: 0;
+}

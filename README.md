@@ -2,10 +2,21 @@
 
 The scope of this repository is to play around with CSS and HTML as a way to learn by building illustrations.
 
+- [100 CSS illustrations](#100-css-illustrations)
 - [List of illustrations](#list-of-illustrations)
   - [Some previews](#some-previews)
 - [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Editors](#editors)
+  - [CSS Shapes](#css-shapes)
+  - [Gradients](#gradients)
+  - [Color palettes](#color-palettes)
+  - [Border radius](#border-radius)
+  - [SVG](#svg)
+  - [Clip path](#clip-path)
 - [Tips, tricks and snippets](#tips-tricks-and-snippets)
+  - [Border](#border)
+  - [Centering](#centering)
 
 # List of illustrations
 
@@ -20,6 +31,7 @@ Each illustration contains a README file detailing tips to take into account dur
 8. [Adidas logo](./projects/logos/adidas/README.md)
 9. [Figma logo](./projects/logos/figma/README.md)
 10. [LG logo](./projects/logos/lg/README.md)
+11. [Watermelon](./projects/plain/watermelon/README.md)
 
 ## Some previews
 
